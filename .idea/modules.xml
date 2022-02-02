@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BankApp/BankApp.iml" filepath="$PROJECT_DIR$/BankApp/BankApp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/bank-app.iml" filepath="$PROJECT_DIR$/.idea/bank-app.iml" />
     </modules>
   </component>
 </project>
